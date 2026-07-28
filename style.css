@@ -1,0 +1,5 @@
+
+body { font-family: 'DM Sans', sans-serif; }
+        .heading-font { font-family: 'Fraunces', serif; }
+        .card-hover:hover { transform: translateY(-4px); }
+        .card-hover { transition: transform 0.3s ease; }
